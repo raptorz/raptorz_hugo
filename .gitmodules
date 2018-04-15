@@ -1,4 +1,0 @@
-[submodule "themes/code-editor"]
-	path = themes/code-editor
-	url = git@github.com:raptorz/hugo-code-editor-theme.git
-	branch = master
