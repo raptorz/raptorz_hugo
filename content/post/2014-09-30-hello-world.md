@@ -1,7 +1,8 @@
 ---
 title: "Hello world"
-date: 2014-09-30T11:55:59+08:00
+date: 2014-09-30
 draft: false
+weight: 10
 ---
 
 This is my first English blog. Sorry for my Chinglish.

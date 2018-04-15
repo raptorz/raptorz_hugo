@@ -2,6 +2,7 @@
 title: "FreeBSD with ZFS installation on Vultr VPS"
 date: 2014-10-08T11:55:59+08:00
 draft: false
+weight: 20
 ---
 
 \(This article is part of the Chinese version [在Vultr的VPS上安装支持ZFS的FreeBSD及SMTP问题的解决](http://blog.csdn.net/raptor/article/details/39854397)\)
