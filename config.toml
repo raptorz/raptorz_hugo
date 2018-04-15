@@ -1,4 +1,4 @@
-baseURL = "http://raptorz.github.io/"
+baseURL = "https://raptorz.github.io/"
 languageCode = "en-us"
 title = "raptor's chinglish blog"
 author = "raptorz"
